@@ -1,5 +1,5 @@
-## Kamunyu Raphael 
-# Hi there 🤠 
+# Kamunyu Raphael 
+## Hi there 🤠 
 
 I'm a **Full-Stack Software Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js). I'm passionate about building scalable, efficient web applications and creating seamless user experiences.
 
