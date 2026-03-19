@@ -62,7 +62,7 @@ Check out my articles and projects below!
 ## 🤝 Let's Connect
 
 - **Portfolio:** [https://kamunyuraphael.netlify.app/](https://kamunyuraphael.netlify.app/)
-- **LinkedIn:** [linkedin.com/in/kamunyuraphael](https://linkedin.com/in/raphael-kamau)
+- **LinkedIn:** [linkedin.com/in/raphael-kamau](https://linkedin.com/in/raphael-kamau)
 - **Email:** raphaelkamaukamunyu@gmail.com
 
 ---
