@@ -61,10 +61,9 @@ Check out my articles and projects below!
 
 ## 🤝 Let's Connect
 
-- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-- **LinkedIn:** [linkedin.com/in/kamunyuraphael](https://linkedin.com/in/kamunyuraphael)
-- **Twitter/X:** [@yourhandle](https://twitter.com/yourhandle)
-- **Email:** your.email@example.com
+- **Portfolio:** [https://kamunyuraphael.netlify.app/](https://kamunyuraphael.netlify.app/)
+- **LinkedIn:** [linkedin.com/in/kamunyuraphael](https://linkedin.com/in/raphael-kamau)
+- **Email:** raphaelkamaukamunyu@gmail.com
 
 ---
 
@@ -76,17 +75,3 @@ Check out my articles and projects below!
 ---
 
 **Last Updated:** 2026-03-19
-<!--
-**kamunyuraphael/kamunyuraphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
