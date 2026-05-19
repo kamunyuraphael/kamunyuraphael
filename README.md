@@ -1,67 +1,38 @@
 # Kamunyu Raphael 
-## Hi there 🤠 
+## Hi there 🤠 welcome to my GitHub.
 
-I'm a **Full-Stack Software Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js). I'm passionate about building scalable, efficient web applications and creating seamless user experiences.
+I'm a **Full-Stack Software Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js). I'm passionate about building scalable and efficient web applications with seamless user experiences.
 
 ## 🚀 Technical Skills
 
 ### Frontend
 - **React** – Hooks, Context API, Redux, Next.js
 - **TypeScript** – Strong typing and advanced OOP patterns
-- **Styling** – Tailwind CSS, Material-UI, Styled Components
-- **State Management** – Redux, Zustand, React Query
+- **Styling** – Bootstrap, Tailwind CSS, Styled Components
 - **Tools** – Webpack, Vite, ESLint, Prettier
 
 ### Backend
-- **Node.js** – Express.js, REST APIs, GraphQL
-- **Databases** – MongoDB, Mongoose, Firebase
+- **Node.js** – Express.js, REST APIs
+- **Databases** – MongoDB, Mongoose
 - **Authentication** – JWT, OAuth 2.0, Sessions
 - **APIs** – RESTful architecture, API design patterns
 
 ### DevOps & Tools
 - **Version Control** – Git, GitHub, GitLab
-- **Deployment** – Docker, AWS, Vercel, Netlify, Heroku
+- **Deployment** – Vercel, Netlify, Heroku
 - **Testing** – Jest, React Testing Library, Postman
-- **CI/CD** – GitHub Actions, GitHub Workflows
 
 ## 💼 Featured Projects
-
-### Project 1: [Project Name]
-- **Tech Stack:** React, Node.js, MongoDB, TypeScript
-- **Description:** Brief description of what the project does and your key contributions
-- **Link:** [GitHub Repo](https://github.com/kamunyuraphael/project-name) | [Live Demo](https://project-demo.com)
-- **Highlights:** Key features or achievements
-
-### Project 2: [Project Name]
-- **Tech Stack:** Next.js, Express, MongoDB
-- **Description:** Brief description
-- **Link:** [GitHub Repo](https://github.com/kamunyuraphael/project-name) | [Live Demo](https://project-demo.com)
-
+To see my featured projects you can access my portfolio page here [😋](https://personal-portfolio-rzkc.vercel.app/)
 ## 📊 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamunyuraphael&show_icons=true&theme=dracula)](https://github.com/kamunyuraphael)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamunyuraphael&layout=compact&theme=dracula)](https://github.com/kamunyuraphael)
 
-## 🌱 Currently Learning
-
-- Advanced TypeScript patterns
-- System design & architecture
-- Web performance optimization
-- Cloud infrastructure (AWS, GCP)
-
-## 📚 Resources & Blog
-
-I occasionally share insights on:
-- MERN Stack best practices
-- TypeScript tips and tricks
-- Web development tutorials
-
-Check out my articles and projects below!
-
 ## 🤝 Let's Connect
 
-- **Portfolio:** [https://kamunyuraphael.netlify.app/](https://kamunyuraphael.netlify.app/)
+- **Portfolio:** [https://personal-portfolio-rzkc.vercel.app/](https://personal-portfolio-rzkc.vercel.app/)
 - **LinkedIn:** [linkedin.com/in/raphael-kamau](https://linkedin.com/in/raphael-kamau)
 - **Email:** raphaelkamaukamunyu@gmail.com
 
@@ -73,5 +44,3 @@ Check out my articles and projects below!
 - Always open to collaborating on interesting projects!
 
 ---
-
-**Last Updated:** 2026-03-19
