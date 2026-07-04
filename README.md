@@ -2,7 +2,7 @@
 
 Hello — welcome to my GitHub profile. I’m a Full‑Stack Software Developer focused on building reliable, maintainable, and performant web applications. I enjoy leveraging the MERN stack, TypeScript, and modern front‑end tooling to deliver production‑ready user experiences and scalable backends.
 
-[![Website](https://img.shields.io/badge/website-myportfolio-blue?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-rzkc.vercel.app/)
+[![Website](https://img.shields.io/badge/website-myportfolio-blue?style=flat-square&logo=vercel&logoColor=white)](https://myportfolio-five-blush-43.vercel.app/)
 [![Email](https://img.shields.io/badge/email-raphaelkamaukamunyu%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:raphaelkamaukamunyu@gmail.com)
 
 ---
@@ -25,8 +25,6 @@ A short selection of repositories you might find interesting — click to explor
 - **Automated-Irrigation-System-** — IoT irrigation (Arduino) · https://github.com/kamunyuraphael/Automated-Irrigation-System-
 - **CultureQuest** — Educational web game (TypeScript) · https://github.com/kamunyuraphael/CultureQuest
 
-(You can change which repos are listed here by editing this section.)
-
 ---
 
 ## Technical skills
@@ -46,24 +44,10 @@ A short selection of repositories you might find interesting — click to explor
 
 ---
 
-## Screenshots & demo GIF
-I’ve added image placeholders below — upload production screenshots or a short demo GIF to `assets/` (or `/public/`) and the images will appear here.
-
-<!-- Replace paths with your uploaded images: assets/screenshot-home.png, assets/demo.gif -->
-
-![Homepage screenshot](./assets/screenshot-home.png)
-
-<!-- Optional demo GIF -->
-![Demo GIF](./assets/demo.gif)
-
-If you’d like, I can upload screenshots you provide, or (optionally) generate simple SVG placeholders for the repo until you add real images.
-
----
-
 ## Featured projects
 Visit my portfolio to see selected work and case studies:
 
-🔗 https://personal-portfolio-rzkc.vercel.app/
+🔗 https://myportfolio-five-blush-43.vercel.app/
 
 ---
 
@@ -77,9 +61,9 @@ Visit my portfolio to see selected work and case studies:
 
 ## Let’s connect
 
-- Portfolio: https://personal-portfolio-rzkc.vercel.app/
-- LinkedIn: https://linkedin.com/in/raphael-kamau
-- Email: raphaelkamaukamunyu@gmail.com
+- [Portfolio](https://myportfolio-five-blush-43.vercel.app/)
+- [LinkedIn](https://linkedin.com/in/raphael-kamau-kamunyu)
+- [Email](raphaelkamaukamunyu@gmail.com)
 
 ---
 
