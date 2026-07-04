@@ -2,6 +2,9 @@
 
 Hello — welcome to my GitHub profile. I’m a Full‑Stack Software Developer focused on building reliable, maintainable, and performant web applications. I enjoy leveraging the MERN stack, TypeScript, and modern front‑end tooling to deliver production‑ready user experiences and scalable backends.
 
+[![Website](https://img.shields.io/badge/website-myportfolio-blue?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-rzkc.vercel.app/)
+[![Email](https://img.shields.io/badge/email-raphaelkamaukamunyu%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:raphaelkamaukamunyu@gmail.com)
+
 ---
 
 ## Quick snapshot
@@ -9,6 +12,20 @@ Hello — welcome to my GitHub profile. I’m a Full‑Stack Software Developer 
 - Role: Full‑Stack Software Developer
 - Primary focus: MERN (MongoDB, Express, React, Node.js) and TypeScript
 - Interests: AIoT, geospatial analytics, predictive data tools, and developer DX
+
+---
+
+## Pinned projects
+A short selection of repositories you might find interesting — click to explore the code and live demos where available.
+
+- **myportfolio** — Personal portfolio site (React, TypeScript, Vite) · https://github.com/kamunyuraphael/myportfolio
+- **regen-mapper** — Geospatial / mapping project · https://github.com/kamunyuraphael/regen-mapper
+- **HEMS** — Home energy monitoring and prediction (MERN + Python model) · https://github.com/kamunyuraphael/HEMS
+- **WildSphere** — Wildlife conservation platform (demo: https://wild-sphere.vercel.app) · https://github.com/kamunyuraphael/WildSphere
+- **Automated-Irrigation-System-** — IoT irrigation (Arduino) · https://github.com/kamunyuraphael/Automated-Irrigation-System-
+- **CultureQuest** — Educational web game (TypeScript) · https://github.com/kamunyuraphael/CultureQuest
+
+(You can change which repos are listed here by editing this section.)
 
 ---
 
@@ -29,12 +46,24 @@ Hello — welcome to my GitHub profile. I’m a Full‑Stack Software Developer 
 
 ---
 
+## Screenshots & demo GIF
+I’ve added image placeholders below — upload production screenshots or a short demo GIF to `assets/` (or `/public/`) and the images will appear here.
+
+<!-- Replace paths with your uploaded images: assets/screenshot-home.png, assets/demo.gif -->
+
+![Homepage screenshot](./assets/screenshot-home.png)
+
+<!-- Optional demo GIF -->
+![Demo GIF](./assets/demo.gif)
+
+If you’d like, I can upload screenshots you provide, or (optionally) generate simple SVG placeholders for the repo until you add real images.
+
+---
+
 ## Featured projects
 Visit my portfolio to see selected work and case studies:
 
 🔗 https://personal-portfolio-rzkc.vercel.app/
-
-(Or explore pinned repositories on my profile.)
 
 ---
 
