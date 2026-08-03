@@ -1,6 +1,6 @@
 # Kamunyu Raphael
 
-Hello — welcome to my GitHub profile. I’m a Full‑Stack Software Developer focused on building reliable, maintainable, and performant web applications. I enjoy leveraging the MERN stack, TypeScript, and modern front‑end tooling to deliver production‑ready user experiences and scalable backends.
+Hello, welcome to my GitHub profile. I’m Raphael Kamau, a Full‑Stack Software Developer focused on building reliable, maintainable, and performant web applications. I enjoy leveraging the MERN stack, TypeScript, and modern front‑end tooling to deliver production‑ready user experiences and scalable backends.
 
 [![Website](https://img.shields.io/badge/website-myportfolio-blue?style=flat-square&logo=vercel&logoColor=white)](https://myportfolio-five-blush-43.vercel.app/)
 [![Email](https://img.shields.io/badge/email-raphaelkamaukamunyu%40gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:raphaelkamaukamunyu@gmail.com)
@@ -23,7 +23,6 @@ A short selection of repositories you might find interesting — click to explor
 - **HEMS** — Home energy monitoring and prediction (MERN + Python model) · https://github.com/kamunyuraphael/HEMS
 - **WildSphere** — Wildlife conservation platform (demo: https://wild-sphere.vercel.app) · https://github.com/kamunyuraphael/WildSphere
 - **Automated-Irrigation-System-** — IoT irrigation (Arduino) · https://github.com/kamunyuraphael/Automated-Irrigation-System-
-- **CultureQuest** — Educational web game (TypeScript) · https://github.com/kamunyuraphael/CultureQuest
 
 ---
 
