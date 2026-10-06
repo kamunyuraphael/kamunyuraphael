@@ -1,89 +1,63 @@
-# Kamunyu Raphael
+# Hi, I'm Raphael Kamau 🇰🇪
 
-Software Engineer | Full-Stack Developer | Building practical, scalable digital products
+### **Software Engineer | AIoT & Data Science | Full-Stack Developer**
 
-I design and build data-driven web applications, intelligent tools, and user-centered systems that solve real-world problems. My work spans full-stack development, geospatial and analytics-driven products, IoT-enabled solutions, and AI-assisted experiences.
+I build data-driven web applications, intelligent IoT systems, and predictive tools that solve real-world sustainability and efficiency problems. I enjoy engineering across the entire lifecycle—from hardware integration to cloud analytics and responsive interface design.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-five-blush-43.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raphael-kamau-kamunyu)
-[![Email](https://img.shields.io/badge/Email-raphaelkamaukamunyu%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphaelkamaukamunyu@gmail.com)
-
----
-
-## About Me
-
-I’m a full-stack software developer focused on building reliable, maintainable, and performant applications using modern web technologies. I enjoy working across the stack, from product thinking and interface design to backend architecture, data flows, and deployment.
-
-My interests include:
-
-- Full-stack web application development
-- Geospatial analytics and mapping platforms
-- AI-driven tools and predictive data systems
-- Developer experience and clean software architecture
-- Sustainable and impact-focused technology
+[![Portfolio](https://shields.io)](https://myportfolio-five-blush-43.vercel.app/)
+[![LinkedIn](https://shields.io)](https://linkedin.com/in/raphael-kamau-kamunyu)
+[![Email](https://shields.io)](mailto:raphaelkamaukamunyu@gmail.com)
 
 ---
 
-## Core Stack
+## 🛠️ Tech Stack & Expertise
 
-### Frontend
-- React
-- TypeScript
-- Next.js
-- Vite
-- Tailwind CSS
-- Bootstrap
-- Responsive UI design
-
-### Backend
-- Node.js
-- Express
-- REST API design
-- Authentication and authorization
-- Server-side data processing
-
-### Data & Tools
-- MongoDB
-- Mongoose
-- Python
-- Geospatial data workflows
-- Git and GitHub
-- Vercel, Netlify, and deployment tooling
-
-### Product & Workflow
-- Problem solving and product iteration
-- Clean API design
-- Testing and quality assurance
-- Collaborative development
+| Layer | Technologies & Tools |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Python, SQL, C |
+| **Frontend** | React.js (Vite), Next.js, Tailwind CSS, shadcn/ui |
+| **Backend & APIs** | Node.js, Express.js, FastAPI, RESTful APIs, JWT Auth |
+| **Data & ML** | MongoDB, MySQL, Scikit-Learn, Leaflet.js, NILMTK |
+| **Cloud & DevOps** | AWS, Git/GitHub, Vercel, Render, Postman |
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-- [myportfolio](https://github.com/kamunyuraphael/myportfolio) — Personal portfolio and case studies built with React and TypeScript
-- [regen-mapper](https://github.com/kamunyuraphael/regen-mapper) — Geospatial and environmental mapping project focused on data-driven insights
-- [HEMS](https://github.com/kamunyuraphael/HEMS) — Home energy monitoring and prediction system with a MERN + Python workflow
-- [WildSphere](https://github.com/kamunyuraphael/WildSphere) — Wildlife conservation platform with a user-facing web experience
-- [CultureQuest](https://github.com/kamunyuraphael/CultureQuest) — Educational web game built with TypeScript
-- [Automated-Irrigation-System-](https://github.com/kamunyuraphael/Automated-Irrigation-System-) — IoT irrigation system prototype
+### 🌍 [WorldSphere](https://github.com)
+* **What it is:** A full-stack wildlife conservation platform.
+* **Tech:** MERN Stack, Python, FastAPI, Scikit-Learn.
+* **Impact:** Pairs a clean web app with an ML microservice to predict species conservation status.
 
----
+### ⚡ [SEMP (Smart Energy Monitoring & Prediction)](https://github.com)
+* **What it is:** A 3-tier predictive home energy monitoring ecosystem.
+* **Tech:** Python, NILMTK, React, Express, MongoDB.
+* **Impact:** Provides live hardware usage visualizations and demand forecasting analytics.
 
-## GitHub Overview
+### 🗺️ [ReGen Mapper](https://github.com)
+* **What it is:** A geospatial reforestation-tracking app built for a land degradation hackathon.
+* **Tech:** React, TypeScript, Leaflet.js, Express, MongoDB.
+* **Impact:** Maps live species-colored markers using logging and real-time spatial data.
 
-[![GitHub Stats](./assets/github-stats.svg)](https://github.com/kamunyuraphael)
-
-[![Top Languages](./assets/top-langs.svg)](https://github.com/kamunyuraphael)
-
----
-
-## Let's Connect
-
-- [Portfolio](https://myportfolio-five-blush-43.vercel.app/)
-- [LinkedIn](https://linkedin.com/in/raphael-kamau-kamunyu)
-- [Email](mailto:raphaelkamaukamunyu@gmail.com)
-- [GitHub](https://github.com/kamunyuraphael)
+### 🚗 [VistaRent](https://github.com)
+* **What it is:** A complete car hire and fleet management engine.
+* **Tech:** React, Vite, shadcn/ui, Express, MongoDB, JWT.
+* **Impact:** Handles active vehicle listings, secure bookings, and server-side pricing filters.
 
 ---
 
-Thanks for visiting my profile. I’m open to collaboration, product work, and opportunities to build meaningful technology.
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="./assets/github-stats.svg" alt="Raphael's GitHub Stats" width="48%" />
+  <img src="./assets/top-langs.svg" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+## 🎯 Let's Build Something Meaningful
+I’m always open to collaborating on open-source products, complex full-stack apps, or data/IoT initiatives. 
+
+* **Portfolio:** [myportfolio-five-blush-43.vercel.app](https://myportfolio-five-blush-43.vercel.app/)
+* **LinkedIn:** [linkedin.com/in/raphael-kamau-kamunyu](https://linkedin.com/in/raphael-kamau-kamunyu)
+* **Quote I live by:** *"Patience doesn't get you what you want; it gets you what you need."*
