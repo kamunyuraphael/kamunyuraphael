@@ -2,7 +2,7 @@
 
 ### **Software Engineer | AIoT & Data Science | Full-Stack Developer**
 
-I build data-driven web applications, intelligent IoT systems, and predictive tools that solve real-world sustainability and efficiency problems. I enjoy engineering across the entire lifecycle—from hardware integration to cloud analytics and responsive interface design.
+I build data-driven web applications, intelligent IoT systems, and predictive tools that solve real-world sustainability and efficiency problems. I enjoy engineering across the entire lifecycle—from system design and product thinking to deployment and continuous improvement.
 
 [![Portfolio](https://shields.io)](https://myportfolio-five-blush-43.vercel.app/)
 [![LinkedIn](https://shields.io)](https://linkedin.com/in/raphael-kamau-kamunyu)
@@ -56,7 +56,7 @@ I build data-driven web applications, intelligent IoT systems, and predictive to
 ---
 
 ## 🎯 Let's Build Something Meaningful
-I’m always open to collaborating on open-source products, complex full-stack apps, or data/IoT initiatives. 
+I’m always open to collaborating on open-source products, complex full-stack apps, or data/IoT initiatives.
 
 * **Portfolio:** [myportfolio-five-blush-43.vercel.app](https://myportfolio-five-blush-43.vercel.app/)
 * **LinkedIn:** [linkedin.com/in/raphael-kamau-kamunyu](https://linkedin.com/in/raphael-kamau-kamunyu)
