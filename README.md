@@ -2,7 +2,7 @@
 
 Software Engineer | Full-Stack Developer | Building practical, scalable digital products
 
-I design and build data-driven web applications, intelligent tools, and user-centered systems that solve real problems in the real world. My work sits at the intersection of software engineering, product thinking, geospatial analysis, and AI-enabled workflows.
+I build data-driven web applications, intelligent tools, and user-centered systems that solve real problems in the real world. My work blends software engineering, product thinking, geospatial analysis, and AI-enabled workflows to create practical, scalable solutions.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20site-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://myportfolio-five-blush-43.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raphael-kamau-kamunyu)
@@ -12,7 +12,7 @@ I design and build data-driven web applications, intelligent tools, and user-cen
 
 ## About Me
 
-I’m a full-stack software developer focused on building reliable, maintainable, and user-centric digital products. I enjoy working across the stack — from understanding the problem and designing the architecture to shipping clean interfaces and scalable backend systems.
+I’m a full-stack software developer focused on building reliable, maintainable, and user-centric digital products. I enjoy working across the stack — from understanding the problem and designing the architecture to building clean interfaces and scalable backend systems.
 
 My interests include:
 
@@ -27,10 +27,10 @@ My interests include:
 ## What I Build
 
 - Web applications that are fast, scalable, and intuitive
-- APIs and backend systems for real-world workflows
+- APIs and backend systems for real-world business workflows
 - Data-driven dashboards and analytics experiences
 - Geospatial and environmental decision-support tools
-- Intelligent tools that combine product thinking with practical engineering
+- Intelligent products that combine product thinking with practical engineering
 
 ---
 
